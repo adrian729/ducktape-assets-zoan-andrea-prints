@@ -1,0 +1,18 @@
+# Subjects used by the approved records of this set that are not in schemas/vocab/subjects.yaml.
+# Add them to the global vocabulary in the same PR; never merged automatically.
+subjects:
+  - beard
+  - bowl
+  - candelabrum
+  - dolphin
+  - dragon
+  - flame
+  - frieze
+  - grape
+  - grotesque
+  - mask
+  - monogram
+  - putto
+  - satyr
+  - shield
+  - thistle

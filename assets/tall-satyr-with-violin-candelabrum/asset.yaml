@@ -1,0 +1,68 @@
+# descriptive: find it and understand it
+id: tall-satyr-with-violin-candelabrum
+title: Tall candelabrum panel with a seated satyr and a violin
+description: A very tall engraved candelabrum panel between thin vertical rules. From the bottom up, a bearded goat-legged satyr sits before a tasselled pedestal holding a violin and its bow; a blank cartouche between dolphins and trophies of arms; a large fluted urn with a bearded mask and cornucopias curling from its sides; two naked children embracing in a bower of acanthus and vine; a hanging cuirass with plumed helmet and shield; crossed staffs bound with a cord; and a lidded urn at the top among vine leaves and grapes. Dark brown-grey ink; the grey paper tone of the plate is kept at partial opacity.
+type: ornament
+categories:
+  - humans
+  - hybrids
+  - music
+  - scrollwork
+subjects:
+  - candelabrum
+  - satyr
+  - violin
+  - fiddle
+  - putto
+  - urn
+  - mask
+  - cartouche
+  - dolphin
+  - trophy
+  - helmet
+  - shield
+  - weapon
+  - horn
+  - vine
+  - grape
+  - acanthus
+  - scroll
+  - pendant
+colors:
+  - gray
+  - brown
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-449
+render:
+  image: {}
+usage_notes:
+  - Extremely tall (about 1:6.6); it works as a full-height side panel or margin filler. The engraved rules along both long edges are part of the master.
+  - The tiers are stacked on one axis, so a crop of a single tier (the satyr base, the urn, the embracing children, the trophy of arms) stands on its own.
+  - The plate area carries a faint grey paper tone, so it sits best on light grounds.
+display_width:
+  - 150
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The paper tone of the whole plate area is retained at partial alpha (most of the field sits between alpha 64 and 191), so on a dark ground the panel shows as a grey rectangle; the outer rules are slightly ragged at the top and bottom ends.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: National Gallery of Art, Washington
+  object_title: "Ornament Panel: Satyr Holding a Violin"
+  object_identifier: 1943.3.449
+  date: c. 1505/1515
+  artist: Giovanni Pietro Birago and Zoan Andrea
+  record_url: https://www.nga.gov/collection/art-object-page.3661.html
+  image_url: https://api.nga.gov/iiif/10e03462-8b8f-41d2-8bf0-86feafe5a937/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 1a053478d0a11db7276e017f64c1740433c7d6fd05757dff200209675e86200e
+license: null

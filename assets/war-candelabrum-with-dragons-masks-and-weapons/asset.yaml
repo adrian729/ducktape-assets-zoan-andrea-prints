@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: war-candelabrum-with-dragons-masks-and-weapons
+title: Candelabrum panel with dragons, masks and instruments of war
+description: A tall symmetrical engraved candelabrum panel. A central shaft rises from a garlanded pedestal through a basket-weave bowl to a wide scale-patterned bowl at the top, where the plate edge cuts it. Two scaly dragons coil at the base; two winged sphinx-like creatures, one human-faced and one lion-headed, perch on the middle bowl facing each other; wheeled cannon jut out to both sides among a drum, a shield, a plumed helmet and a cuirass; two horned masks sprout acanthus at the top corners. Dark brown ink, the tan paper tone kept inside the forms, on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - scrollwork
+subjects:
+  - candelabrum
+  - dragon
+  - mask
+  - creature
+  - wings
+  - lion
+  - cannon
+  - weapon
+  - helmet
+  - shield
+  - drum
+  - acanthus
+  - scroll
+  - ribbon
+colors:
+  - tan
+  - brown
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-441
+render:
+  image: {}
+usage_notes:
+  - Tall piece (about 1:2.2), symmetrical about the shaft; it reads well as a side panel or centred under a title.
+  - The shaft is cut flat at the top edge of the plate, so place the top against a rule or the page edge, or crop to the lower tiers.
+display_width:
+  - 250
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament Panel with Dragons, Masks, and Instruments of War
+  object_identifier: 1943.3.441
+  date: c. 1505
+  artist: Zoan Andrea
+  record_url: https://www.nga.gov/collection/art-object-page.3653.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: aca0721ebc9e2836450f6882127231f9c2c9110ecd392c17b5b1a35d3b6e2047
+license: null
