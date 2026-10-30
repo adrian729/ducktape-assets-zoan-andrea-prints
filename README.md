@@ -3,7 +3,7 @@
 
 Two vertical ornament panels, a satyr with a violin and dragons with masks and instruments of war, engraved by Zoan Andrea in northern Italy around 1505–1515, from two sheets in the National Gallery of Art, Washington; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `zoan-andrea-prints`, historical, 2 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `zoan-andrea-prints`, historical, 2 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `zoan-andrea-prints/tall-satyr-with-violin-candelabrum`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints@1.0.0/webp/tall-satyr-with-violin-candelabrum-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-zoan-andrea-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-zoan-andrea-prints-masters`; never put a master on a page.
